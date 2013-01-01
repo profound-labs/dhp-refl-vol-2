@@ -3,7 +3,7 @@ FILE=book_main
 LATEX=lualatex
 BIBTEX=bibtex
 
-LANG=_PORT
+LANG=_ENG
 
 LATEX_OPTS=-interaction=nonstopmode -halt-on-error
 
