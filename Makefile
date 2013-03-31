@@ -3,38 +3,31 @@ FILE=book_main
 LATEX=lualatex
 BIBTEX=bibtex
 
-LANG=_ENG
-
 LATEX_OPTS=-interaction=nonstopmode -halt-on-error
 
-all: document
+all: book
 
-document: $(FILE)$(LANG).pdf
-
-$(FILE).pdf: $(FILE)$(LANG).tex
-	$(LATEX) $(LATEX_OPTS) $(FILE)$(LANG).tex;
-
-again:
-	$(LATEX) $(LATEX_OPTS) $(FILE)$(LANG).tex;
+book:
+	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
 twice:
-	$(LATEX) $(LATEX_OPTS) $(FILE)$(LANG).tex && $(LATEX) $(LATEX_OPTS) $(FILE)$(LANG).tex;
+	$(LATEX) $(LATEX_OPTS) $(FILE).tex && $(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
 view:
-	evince $(FILE)$(LANG).pdf &
+	evince $(FILE).pdf &
 
 cover-front:
-	$(LATEX) $(LATEX_OPTS) cover_front$(LANG).tex
+	$(LATEX) $(LATEX_OPTS) cover_front.tex
 
 cover-back:
-	$(LATEX) $(LATEX_OPTS) cover_back$(LANG).tex
+	$(LATEX) $(LATEX_OPTS) cover_back.tex
 
 cover-spine:
-	$(LATEX) $(LATEX_OPTS) cover_spine$(LANG).tex
-	+pdftk cover_spine$(LANG).pdf cat 1-endL output cover_spine$(LANG)_L.pdf
+	$(LATEX) $(LATEX_OPTS) cover_spine.tex
+	+pdftk cover_spine.pdf cat 1-endL output cover_spine_L.pdf
 
 cover:
-	$(LATEX) $(LATEX_OPTS) cover$(LANG).tex
+	$(LATEX) $(LATEX_OPTS) cover.tex
 
 cover-all:
 	make cover-front
@@ -43,5 +36,5 @@ cover-all:
 	make cover
 
 clean:
-	+rm -fv $(FILE)$(LANG).{dvi,ps,pdf,aux,log,bbl,blg}
+	+rm -fv $(FILE).{dvi,ps,pdf,aux,log,bbl,blg}
 

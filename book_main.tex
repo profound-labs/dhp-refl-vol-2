@@ -1,0 +1,113 @@
+\documentclass{aruno-gist}
+
+\usepackage{mylayout}
+
+%% Details of the book
+%% ===================
+
+\title{Dhammapada Reflections}
+\subtitle{52 verses from the Dhammapada with comments}
+\author{Ajahn Munindo}
+\date{}
+\editionInfo{\textit{First edition}, 10,000 copies, printed in Malaysia, 2013}
+\ISBN{978-1-908444-34-9}
+
+\hyphenation{prep-a-ra-tion belief attrac-tive under-stand-ing moment}
+
+\begin{document}
+
+\emptysheet
+
+%% Frontmatter
+%% ===========
+
+\frontmatter*
+\pagestyle{empty}
+
+\midsloppy
+
+\cleartorecto
+\begin{quotepage}{60mm}
+\centering
+\itshape
+With an image of liberation as the goal\\
+the wise abandon darkness and cherish light,\\
+leave petty security behind \\
+and seek freedom from attachment.\\
+To pursue such release is difficult and rare, \\
+yet the wise will seek it, \\
+detaching themselves from obstructions,\\
+purifying heart and mind.
+
+{\smaller Dhammapada verses 87-88}
+\end{quotepage}
+
+\cleartoverso
+\begin{quotepage}{80mm}
+\centering
+\textit{Dedication}\\[0.4\baselineskip]
+We would like to acknowledge the support of\\
+many people in the preparation of this book,\\
+especially that of the Kataññnutā group\\
+in Malaysia, Singapore and Australia,\\
+for bringing it into production.
+
+\end{quotepage}
+
+\cleartorecto
+\thispagestyle{empty}
+\input{./src-tex/titlepage.tex}
+
+\cleartoverso
+\thispagestyle{empty}
+\input{./src-tex/copyright.tex}
+
+\chapterstyle{frontmatter}
+
+\chapter{Preface}
+\input{./src-tex/preface.tex}
+
+%% Main matter
+%% ===========
+
+\mainmatter*
+
+\cleartorecto
+\thispagestyle{empty}
+{\centering
+
+\vspace*{0.6\textheight}
+{\chapNameFont\LARGE\color{chaptitle}\soChapter{Dhammapada Reflections}}
+
+}
+
+\setcounter{chapter}{0}
+\setcounter{page}{1}
+\pagestyle{normalpage}
+\chapterstyle{mainmatter}
+
+\setlength{\parskip}{0.6\baselineskip}
+\setlength{\parindent}{0pt}
+
+\input{./src-tex/versepages.tex}
+
+\backmatter
+
+\bookmarksetup{startatroot}
+
+\chapterstyle{backmatter}
+\newgeometry{vmargin=15mm, hmargin=10mm}
+
+\chapter{Index of First Lines}
+\input{./src-tex/index-of-first-lines.tex}
+
+%% Copyright details
+%% -----------------
+
+\cleartorecto
+\thispagestyle{plain}
+\input{./src-tex/copyright-details.tex}
+
+\emptysheet
+
+\end{document}
