@@ -2,5 +2,6 @@
 *.aux
 *.log
 pdf-keep/proofing/
+temp/
 auto/
 book_main.pdf
