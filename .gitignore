@@ -1,5 +1,6 @@
 *.swp
 *.aux
 *.log
+pdf-keep/proofing/
 auto/
 book_main.pdf
