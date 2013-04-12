@@ -1,0 +1,16 @@
+#+TITLE: Print Specs for Dhammapada Reflections Vol 2
+
+* Print Specs for Dhammapada Reflections Vol 2
+ 
+| Title:               | Dhammapada Reflections Vol 2  |
+| Language:            | English                       |
+| Author:              | Ajahn Munindo                 |
+| Page width:          | 135mm                         |
+| Page height:         | 120mm                         |
+| Spine width:         | n/a                           |
+| Mainmatter:          | 122 pages                     |
+| Mainmatter material: | cream 70gsm                   |
+| Cover material:      | 300gsm 2 side coated art card |
+| Cover finishing:     | Glossy                        |
+| Binding:             | wire-o                        |
+
