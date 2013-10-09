@@ -1,7 +1,8 @@
 *.swp
 *.aux
 *.log
-pdf-keep/proofing/
+*.toc
+publish/proofing/
 temp/
 auto/
 book_main.pdf
