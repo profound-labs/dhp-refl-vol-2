@@ -12,5 +12,6 @@ ISBN for ebooks: `978-1-908444-42-4`
 
 Find the final PDF, EPUB and MOBI files in `publish/final/` folder.
 
-Created with [profound-labs/prophecy](https://github.com/profound-labs/prophecy) book boilerplate.
+Install [prophecy](https://github.com/profound-labs/prophecy) to compile
+the source files.
 
