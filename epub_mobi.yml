@@ -8,7 +8,7 @@ version: 'v1.0'
 bookid: "DhammapadaReflectionsVolumeTwoENG"
 
 # ISBN for the ebook editions
-isbn: "000-0-0000000-0-0"
+isbn: "978-1-908444-42-4"
 
 # Level 1, 2, 3
 section_names: [ "", "", "" ]

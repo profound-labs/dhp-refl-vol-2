@@ -10,7 +10,7 @@ Contact Aruno Publications at
 This book is available for free download at\\
 [www.forestsanghabooks.org](http://forestsanghabooks.org/)
 
-ISBN
+ISBN 978-1-908444-42-4
 
 Copyright © 2013 HARNHAM BUDDHIST MONASTERY TRUST
 

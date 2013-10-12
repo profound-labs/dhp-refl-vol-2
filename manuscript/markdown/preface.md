@@ -9,6 +9,8 @@ new- and full-moon to participants in our Dhammasakaccha on-line
 correspondence community, which currently has about 600 participants. If
 you wish to receive these mailings please visit:
 
+[www.ratanagiri.org.uk/dhammapada-reflections/](http://ratanagiri.org.uk/dhammapada-reflections/)
+
 Once again, I am indebted to many who have helped in the preparation of
 this material. For the Dhammapada verses themselves I consulted several
 authoritative versions. In particular I have used the work by Ven.

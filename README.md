@@ -4,11 +4,11 @@
 by Ajahn Munindo
 
 Paperback status: **COMPLETED**  
-Ebook status: **Work in progress**
+Ebook status: **COMPLETED**
 
 ISBN for paperback: `978-1-908444-34-9`
 
-ISBN for ebooks:
+ISBN for ebooks: `978-1-908444-42-4`
 
 Find the final PDF, EPUB and MOBI files in `publish/final/` folder.
 

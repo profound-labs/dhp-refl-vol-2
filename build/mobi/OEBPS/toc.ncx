@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:isbn:978-1-908444-42-4" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+
+    <!-- totalPageCount and maxPageNumber are mandatory, but they're not used in ebooks -->
+    <meta content="-1" name="dtb:totalPageCount"/>
+    <meta content="-1" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dhammapada Reflections Vol. 2</text>
+  </docTitle>
+  <navMap>
+    <navPoint id='nav1' playOrder='1'>
+<navLabel><text>Copyright</text></navLabel>
+<content src='chapters/copyright.xhtml'/></navPoint>
+<navPoint id='nav2' playOrder='2'>
+<navLabel><text>Preface</text></navLabel>
+<content src='chapters/preface.xhtml'/></navPoint>
+<navPoint id='nav3' playOrder='3'>
+<navLabel><text>Title Page</text></navLabel>
+<content src='chapters/titlepage.xhtml'/></navPoint>
+<navPoint id='nav4' playOrder='4'>
+<navLabel><text>Contents</text></navLabel>
+<content src='chapters/toc.xhtml'/></navPoint>
+<navPoint id='nav5' playOrder='5'>
+<navLabel><text>Dhammapada Reflections</text></navLabel>
+<content src='chapters/versepages.xhtml'/></navPoint>
+<navPoint id='nav6' playOrder='6'>
+<navLabel><text>Index of Verses</text></navLabel>
+<content src='chapters/versepages.xhtml#dhammapada-reflections' /><navPoint id='nav7' playOrder='7'>
+<navLabel><text>v. 85 - Few are those who reach the beyond.</text></navLabel>
+<content src='chapters/versepages.xhtml#page1'/></navPoint>
+<navPoint id='nav8' playOrder='8'>
+<navLabel><text>v. 194 - Blessed is the arising of a Buddha;</text></navLabel>
+<content src='chapters/versepages.xhtml#page2'/></navPoint>
+<navPoint id='nav9' playOrder='9'>
+<navLabel><text>v. 202 - There is no fire like lust,</text></navLabel>
+<content src='chapters/versepages.xhtml#page3'/></navPoint>
+<navPoint id='nav10' playOrder='10'>
+<navLabel><text>v. 302 - It is hard to live the life of renunciation;</text></navLabel>
+<content src='chapters/versepages.xhtml#page4'/></navPoint>
+<navPoint id='nav11' playOrder='11'>
+<navLabel><text>v. 111 - A single day lived</text></navLabel>
+<content src='chapters/versepages.xhtml#page5'/></navPoint>
+<navPoint id='nav12' playOrder='12'>
+<navLabel><text>v. 24 - Those who are energetically</text></navLabel>
+<content src='chapters/versepages.xhtml#page6'/></navPoint>
+<navPoint id='nav13' playOrder='13'>
+<navLabel><text>v. 384 - All chains of confinement fall away</text></navLabel>
+<content src='chapters/versepages.xhtml#page7'/></navPoint>
+<navPoint id='nav14' playOrder='14'>
+<navLabel><text>v. 201 - Victory leads to hatred,</text></navLabel>
+<content src='chapters/versepages.xhtml#page8'/></navPoint>
+<navPoint id='nav15' playOrder='15'>
+<navLabel><text>v. 279 - ‘All realities are devoid of an abiding self’;</text></navLabel>
+<content src='chapters/versepages.xhtml#page9'/></navPoint>
+<navPoint id='nav16' playOrder='16'>
+<navLabel><text>v. 63 - The fool who knows he is a fool</text></navLabel>
+<content src='chapters/versepages.xhtml#page10'/></navPoint>
+<navPoint id='nav17' playOrder='17'>
+<navLabel><text>v. 300 - Disciples of the Buddha</text></navLabel>
+<content src='chapters/versepages.xhtml#page11'/></navPoint>
+<navPoint id='nav18' playOrder='18'>
+<navLabel><text>v. 392 - Devotion and respect</text></navLabel>
+<content src='chapters/versepages.xhtml#page12'/></navPoint>
+<navPoint id='nav19' playOrder='19'>
+<navLabel><text>v. 160 - Truly it is ourselves that we depend upon;</text></navLabel>
+<content src='chapters/versepages.xhtml#page13'/></navPoint>
+<navPoint id='nav20' playOrder='20'>
+<navLabel><text>v. 211 - Beware of the attachment that springs from fondness,</text></navLabel>
+<content src='chapters/versepages.xhtml#page14'/></navPoint>
+<navPoint id='nav21' playOrder='21'>
+<navLabel><text>v. 53 - As many garlands can be made</text></navLabel>
+<content src='chapters/versepages.xhtml#page15'/></navPoint>
+<navPoint id='nav22' playOrder='22'>
+<navLabel><text>v. 199 - While in the midst</text></navLabel>
+<content src='chapters/versepages.xhtml#page16'/></navPoint>
+<navPoint id='nav23' playOrder='23'>
+<navLabel><text>v. 68 - A deed is well done</text></navLabel>
+<content src='chapters/versepages.xhtml#page17'/></navPoint>
+<navPoint id='nav24' playOrder='24'>
+<navLabel><text>v. 67 - A deed is not well done</text></navLabel>
+<content src='chapters/versepages.xhtml#page18'/></navPoint>
+<navPoint id='nav25' playOrder='25'>
+<navLabel><text>v. 421 - Anyone who lives freed from habits of clinging</text></navLabel>
+<content src='chapters/versepages.xhtml#page19'/></navPoint>
+<navPoint id='nav26' playOrder='26'>
+<navLabel><text>v. 390 - Suffering subsides to the degree</text></navLabel>
+<content src='chapters/versepages.xhtml#page20'/></navPoint>
+<navPoint id='nav27' playOrder='27'>
+<navLabel><text>v. 320 - Like an elephant in battle</text></navLabel>
+<content src='chapters/versepages.xhtml#page21'/></navPoint>
+<navPoint id='nav28' playOrder='28'>
+<navLabel><text>v. 6 - Those who are contentious</text></navLabel>
+<content src='chapters/versepages.xhtml#page22'/></navPoint>
+<navPoint id='nav29' playOrder='29'>
+<navLabel><text>v. 380 - We are our own protection;</text></navLabel>
+<content src='chapters/versepages.xhtml#page23'/></navPoint>
+<navPoint id='nav30' playOrder='30'>
+<navLabel><text>v. 253 - Those who always look for</text></navLabel>
+<content src='chapters/versepages.xhtml#page24'/></navPoint>
+<navPoint id='nav31' playOrder='31'>
+<navLabel><text>v. 135 - Just as a herdsman</text></navLabel>
+<content src='chapters/versepages.xhtml#page25'/></navPoint>
+<navPoint id='nav32' playOrder='32'>
+<navLabel><text>v. 47 - As a flash-flood</text></navLabel>
+<content src='chapters/versepages.xhtml#page26'/></navPoint>
+<navPoint id='nav33' playOrder='33'>
+<navLabel><text>v. 81 - As solid rock</text></navLabel>
+<content src='chapters/versepages.xhtml#page27'/></navPoint>
+<navPoint id='nav34' playOrder='34'>
+<navLabel><text>v. 39 - There is no fear</text></navLabel>
+<content src='chapters/versepages.xhtml#page28'/></navPoint>
+<navPoint id='nav35' playOrder='35'>
+<navLabel><text>v. 34 - Like a fish, which on being dragged</text></navLabel>
+<content src='chapters/versepages.xhtml#page29'/></navPoint>
+<navPoint id='nav36' playOrder='36'>
+<navLabel><text>v. 103 - One might defeat alone in battle</text></navLabel>
+<content src='chapters/versepages.xhtml#page30'/></navPoint>
+<navPoint id='nav37' playOrder='37'>
+<navLabel><text>v. 26 - Those who are foolish and confused</text></navLabel>
+<content src='chapters/versepages.xhtml#page31'/></navPoint>
+<navPoint id='nav38' playOrder='38'>
+<navLabel><text>v. 175 - Swans fly through the air.</text></navLabel>
+<content src='chapters/versepages.xhtml#page32'/></navPoint>
+<navPoint id='nav39' playOrder='39'>
+<navLabel><text>v. 101 - A single verse of truth</text></navLabel>
+<content src='chapters/versepages.xhtml#page33'/></navPoint>
+<navPoint id='nav40' playOrder='40'>
+<navLabel><text>v. 258 - Those who speak much</text></navLabel>
+<content src='chapters/versepages.xhtml#page34'/></navPoint>
+<navPoint id='nav41' playOrder='41'>
+<navLabel><text>v. 195-196 - Immeasurable is the benefit</text></navLabel>
+<content src='chapters/versepages.xhtml#page35'/></navPoint>
+<navPoint id='nav42' playOrder='42'>
+<navLabel><text>v. 336 - As water falls from a lotus leaf</text></navLabel>
+<content src='chapters/versepages.xhtml#page36'/></navPoint>
+<navPoint id='nav43' playOrder='43'>
+<navLabel><text>v. 405 - Those who have renounced the use of force</text></navLabel>
+<content src='chapters/versepages.xhtml#page37'/></navPoint>
+<navPoint id='nav44' playOrder='44'>
+<navLabel><text>v. 4 - If we thoroughly release ourselves</text></navLabel>
+<content src='chapters/versepages.xhtml#page38'/></navPoint>
+<navPoint id='nav45' playOrder='45'>
+<navLabel><text>v. 11-12 - Mistaking the false for the real</text></navLabel>
+<content src='chapters/versepages.xhtml#page39'/></navPoint>
+<navPoint id='nav46' playOrder='46'>
+<navLabel><text>v. 35 - The active mind is difficult to tame,</text></navLabel>
+<content src='chapters/versepages.xhtml#page40'/></navPoint>
+<navPoint id='nav47' playOrder='47'>
+<navLabel><text>v. 60 - The night is long</text></navLabel>
+<content src='chapters/versepages.xhtml#page41'/></navPoint>
+<navPoint id='nav48' playOrder='48'>
+<navLabel><text>v. 168 - Do not show false humility.</text></navLabel>
+<content src='chapters/versepages.xhtml#page42'/></navPoint>
+<navPoint id='nav49' playOrder='49'>
+<navLabel><text>v. 54 - The fragrance of flowers or sandalwood</text></navLabel>
+<content src='chapters/versepages.xhtml#page43'/></navPoint>
+<navPoint id='nav50' playOrder='50'>
+<navLabel><text>v. 16 - When we appreciate fully</text></navLabel>
+<content src='chapters/versepages.xhtml#page44'/></navPoint>
+<navPoint id='nav51' playOrder='51'>
+<navLabel><text>v. 177 - Those who fail to value generosity</text></navLabel>
+<content src='chapters/versepages.xhtml#page45'/></navPoint>
+<navPoint id='nav52' playOrder='52'>
+<navLabel><text>v. 369 - Bale out the water from your boat;</text></navLabel>
+<content src='chapters/versepages.xhtml#page46'/></navPoint>
+<navPoint id='nav53' playOrder='53'>
+<navLabel><text>v. 208 - You should follow the ways</text></navLabel>
+<content src='chapters/versepages.xhtml#page47'/></navPoint>
+<navPoint id='nav54' playOrder='54'>
+<navLabel><text>v. 90 - There is no tension</text></navLabel>
+<content src='chapters/versepages.xhtml#page48'/></navPoint>
+<navPoint id='nav55' playOrder='55'>
+<navLabel><text>v. 204 - Health is the greatest gain.</text></navLabel>
+<content src='chapters/versepages.xhtml#page49'/></navPoint>
+<navPoint id='nav56' playOrder='56'>
+<navLabel><text>v. 19 - Though one may know much about Dhamma,</text></navLabel>
+<content src='chapters/versepages.xhtml#page50'/></navPoint>
+<navPoint id='nav57' playOrder='57'>
+<navLabel><text>v. 112 - A single day lived</text></navLabel>
+<content src='chapters/versepages.xhtml#page51'/></navPoint>
+<navPoint id='nav58' playOrder='58'>
+<navLabel><text>v. 354 - The gift of Dhamma excels all gifts.</text></navLabel>
+<content src='chapters/versepages.xhtml#page52'/></navPoint>
+</navPoint>
+  </navMap>
+</ncx>

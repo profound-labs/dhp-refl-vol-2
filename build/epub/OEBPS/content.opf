@@ -3,11 +3,11 @@
   <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <!-- ISBN -->
-    <dc:identifier id="DhammapadaReflectionsVolumeTwoENG" opf:scheme="ISBN">urn:isbn:000-0-0000000-0-0</dc:identifier>
+    <dc:identifier id="DhammapadaReflectionsVolumeTwoENG" opf:scheme="ISBN">urn:isbn:978-1-908444-42-4</dc:identifier>
     <!-- UUID generator: http://www.famkruithof.net/uuid/uuidgen -->
     
 
-    <dc:title>Dhammapada Reflections Vol 2</dc:title>
+    <dc:title>Dhammapada Reflections Vol. 2</dc:title>
     <dc:rights></dc:rights>
 
     <!-- BISAC Subject Headings List: http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php-->
