@@ -3,6 +3,9 @@
 *.log
 *.toc
 publish/proofing/
+publish/epub/
+publish/mobi/
+publish/pdf/
 temp/
 auto/
 book_main.pdf
