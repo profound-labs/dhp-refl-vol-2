@@ -1,14 +1,14 @@
 
-<h1>Dhammapada Reflections</h1>
-<h2 style="padding-bottom: 1em;">Vol. 2</h2>
-<% unless book.subtitle.nil? %><h2><%= book.subtitle %></h2><% end %>
-<h3>by <%= book.author %></h3>
+<h1 style="text-align: center;">Dhammapada Reflections</h1>
+<h2 style="text-align: center; padding-bottom: 1em;">Vol. 2</h2>
+<% unless book.subtitle.nil? %><h2 style="text-align: center;"><%= book.subtitle %></h2><% end %>
+<h3 style="text-align: center;">by <%= book.author %></h3>
 
 <% unless book.publisher_logo.nil? %>
-<p><img src="../images/<%= book.publisher_logo %>" alt="logo"/></p>
+<p style="text-align: center;"><img src="../images/<%= book.publisher_logo %>" alt="logo"/></p>
 <% end %>
 
-<p class="footnotesize" style="font-style: italic;">
+<p class="footnotesize" style="text-align: center; font-style: italic;">
 <% unless book.publisher.nil? %>
   Published by <%= book.publisher %><br/>
   <%= book.publisher_atag %><br/>
