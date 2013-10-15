@@ -461,11 +461,16 @@ blockquote.dhp-verse p {
   text-align: left;
 }
 
-/* line 50, ../sass/_dhp-refl.sass */
+/* line 48, ../sass/_dhp-refl.sass */
+.dhp-reflection {
+  padding-bottom: 3em;
+}
+
+/* line 51, ../sass/_dhp-refl.sass */
 ul.verseindex {
   list-style-type: disc;
 }
-/* line 52, ../sass/_dhp-refl.sass */
+/* line 53, ../sass/_dhp-refl.sass */
 ul.verseindex li {
   font-size: 0.8em;
 }
