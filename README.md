@@ -12,6 +12,8 @@ ISBN for ebooks: `978-1-908444-42-4`
 
 Find the final PDF, EPUB and MOBI files in `publish/final/` folder.
 
+Github: <https://github.com/profound-labs/dhp-refl-vol-2>
+
 Install [prophecy](https://github.com/profound-labs/prophecy) to compile
 the source files.
 
