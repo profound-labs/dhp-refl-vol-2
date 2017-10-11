@@ -8,5 +8,6 @@ publish/mobi/
 publish/pdf/
 temp/
 auto/
+cover.pdf
 book_main.pdf
 print-specs.odt
